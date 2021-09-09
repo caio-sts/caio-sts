@@ -31,7 +31,7 @@
   <img align="center" alt="Caio-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Caio-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="Caio-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img src="https://raw.githubusercontent.com/raghavk16/raghavk16/master/giphy.webp" alt="eatsleepcode" width="250" height="250" style="max-width: 100%;">  
+  <img align="right" alt="eatsleepcode" src="https://raw.githubusercontent.com/raghavk16/raghavk16/master/giphy.webp">
 </div>
 ##
   
