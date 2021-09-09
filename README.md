@@ -33,7 +33,7 @@
   <img align="center" alt="Caio-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
-  ![Snake animation](https://github.com/Santos-caIO/Santos-caIO/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/raffaballerini/Santos-caIO/blob/output/github-contribution-grid-snake.svg)
   
 
   ### Já viram a rotina de um programador?
