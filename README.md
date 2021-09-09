@@ -1,7 +1,7 @@
-### Hi there 👋
+### Olá! Eu sou Caio dos Santos 👋
 
-- 🔭 I’m currently working on PET Projects at UFC
-- 🌱 I’m currently learning Python (Machine Learning, Frontend, Apps mobile) 
-- 📫 How to reach me:
-- 😄 Pronouns: He/him
-- ⚡ Curious fact about me: I love thinking and solving math problems
+- 🔭 Eu estou atualmente trabalhando em projetos ligados ao PET Engenharia de Computação na UFC
+- 🌱 Estou aprendendo Python (Machine Learning, Frontend e mobile apps)
+- 😄 Pronome: ele/dele
+- ⚡ Fato curioso sobre mim: Me divirto pensando e resolvendo problemas de matemática
+- 📫 Fale comigo pelo:
