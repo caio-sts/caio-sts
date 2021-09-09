@@ -37,7 +37,7 @@
 
   ## Já viram a rotina de um programador?
   
-  <img align="center" alt="eatsleepcode" width="500" src="https://raw.githubusercontent.com/raghavk16/raghavk16/master/giphy.webp">
+  <img align="center" alt="eatsleepcode" width="350" src="https://raw.githubusercontent.com/raghavk16/raghavk16/master/giphy.webp">
   
 
 
