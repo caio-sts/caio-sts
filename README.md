@@ -2,7 +2,6 @@
 
 - 🔭 Eu estou atualmente trabalhando em projetos ligados ao PET Engenharia de Computação na UFC
 - 🌱 Estou aprendendo Python (Machine Learning, Frontend e mobile apps)
-- ⚡ Fato curioso sobre mim: Me divirto pensando e resolvendo problemas de matemática
 - 📈 Algumas estatísticas
   
 <div>
