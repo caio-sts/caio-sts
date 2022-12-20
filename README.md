@@ -34,7 +34,7 @@
   ![Snake animation](https://github.com/Santos-caIO/Santos-caIO/blob/output/github-contribution-grid-snake.svg)
   
 
-  ### Já viram a rotina de um programador?
+  ### Qual a minha rotina como programador?
   
   <img align="center" alt="eatsleepcode" width="350" src="https://raw.githubusercontent.com/raghavk16/raghavk16/master/giphy.webp">
   
