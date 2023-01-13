@@ -8,7 +8,6 @@
   <a href="https://github.com/caio-sts/caio-sts">
   <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=caio-sts&&show_icons=true&count_private=true&theme=radical&layout=compact"/>
   <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-sts&layout=compact&theme=radical&show_icons=true&count_private=true"/>
-  <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/wakatime?username=caio-sts"/>
 
 
 - 📫 Fale comigo pelo:
@@ -33,9 +32,8 @@
 </div>
   
   ![Snake animation](https://github.com/caio-sts/caio-sts/blob/output/github-contribution-grid-snake.svg)
-  
 
-  ### Qual a minha rotina como programador?
+  ## Daily programmer's vibe
   
   <img align="center" alt="eatsleepcode" width="350" src="https://raw.githubusercontent.com/raghavk16/raghavk16/master/giphy.webp">
   
