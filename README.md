@@ -38,7 +38,7 @@
 
   ## Daily programmer's vibe
   
-  <div align="center">
+  <div float=left>
     <img align="center" alt="coffee" width="300" src="https://github.com/caio-sts/general_assets/blob/main/gifs/coffee.gif">
     <img align="center" alt="code" width="300" src="https://github.com/caio-sts/general_assets/blob/main/gifs/code.gif">
     <img align="center" alt="brain" width="300" src="https://github.com/caio-sts/general_assets/blob/main/gifs/brain.gif">
