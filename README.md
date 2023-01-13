@@ -1,4 +1,4 @@
-### Olá! Eu sou Caio dos Santos 👋
+### Olá! Eu sou Caio dos Santos <img width="20" src="https://github.com/nixin72/nixin72/blob/master/wave.gif"></img>
 
 - 🔭 Atualmente desenvolvo projetos relacionados às seguintes organizações da Universidade Federal do Ceará
     - PET Engenharia de Computação
