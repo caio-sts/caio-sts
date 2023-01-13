@@ -5,7 +5,7 @@
 - 📈 Algumas estatísticas
   
 <div>
-  <a href="https://github.com/Santos-caIO/Santos-caIO">
+  <a href="https://github.com/caio-sts/caio-sts">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=caio-sts&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-sts&layout=compact&langs_count=7&theme=dark"/>
     </div>
@@ -13,9 +13,9 @@
 - 📫 Fale comigo pelo:
   
 <div> 
-  <a href="https://www.instagram.com/_caio.nasc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/caio.santosn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:caio.santos@alu.ufc.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caio-santos-nasc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/caio-santos-nasc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
 - Uso/ já usei
@@ -31,7 +31,7 @@
   <img align="center" alt="Caio-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
-  ![Snake animation](https://github.com/Santos-caIO/Santos-caIO/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/caio-sts/caio-sts/blob/output/github-contribution-grid-snake.svg)
   
 
   ### Qual a minha rotina como programador?
