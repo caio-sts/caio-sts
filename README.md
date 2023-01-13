@@ -1,7 +1,7 @@
 ### Olá! Eu sou Caio dos Santos 👋
 
-- 🔭 Eu estou atualmente trabalhando em projetos ligados ao PET Engenharia de Computação na UFC
-- 🌱 Estou aprendendo Python (Machine Learning, Frontend e mobile apps)
+  - 🔭 Atualmente envolvido em projetos ligados ao PET Engenharia de Computação, à Célula de Internet of Things e ao grupo de pesquisa <a href=“https://www.linkedin.com/company/biodata-research-group/about/“>BioDatA</a>BioDatA na UFC
+- 🌱 Estudo diversas tecnologias porém Python, para Machine Learning, e javascript, para desenvolvimento web, são os principais, incluindo alguns de seus frameworks
 - 📈 Algumas estatísticas
   
 
