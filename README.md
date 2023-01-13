@@ -1,6 +1,6 @@
 ### Olá! Eu sou Caio dos Santos 👋
 
-  - 🔭 Atualmente desenvolvo projetos relacionados ao PET Engenharia de Computação, à Célula de Internet of Things e ao grupo de pesquisa <a href=“https://www.linkedin.com/company/biodata-research-group/about/“>BioDatA</a> na UFC
+  - 🔭 Atualmente desenvolvo projetos relacionados ao PET Engenharia de Computação, à Célula de Internet of Things e ao grupo de pesquisa <a href="www.linkedin.com/company/biodata-research-group/about/">BioDatA</a> na UFC
 - 🌱 Estudo diversas tecnologias porém Python, para Machine Learning, e javascript, para desenvolvimento web, são os principais, incluindo alguns de seus frameworks
 - 📈 Algumas estatísticas
   
