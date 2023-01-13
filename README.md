@@ -10,9 +10,8 @@
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-sts&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<div>
-  ![caio-sts's github stats](https://github-readme-stats.vercel.app/api?username=caio-sts)
-</div>
+
+![caio-sts's github stats](https://github-readme-stats.vercel.app/api?username=caio-sts)
   
 - 📫 Fale comigo pelo:
   
