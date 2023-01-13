@@ -9,11 +9,11 @@
 
 - 📈 Algumas estatísticas
   
-
+<div>
   <a href="https://github.com/caio-sts/caio-sts">
   <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=caio-sts&&show_icons=true&count_private=true&theme=radical&layout=compact"/>
   <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-sts&layout=compact&theme=radical&show_icons=true&count_private=true"/>
-
+      </div>
 
 - 📫 Fale comigo pelo:
   
