@@ -40,7 +40,7 @@
   
   <div align="center">
     <img align="center" alt="coffee" height="300" width="300" src="https://github.com/caio-sts/general_assets/blob/main/gifs/coffee.gif">
-    <img align="center" alt="code" height="300" width="300" src="https://github.com/caio-sts/general_assets/blob/main/gifs/code.gif">
+    <img align="center" alt="code" height="300" width="300" src="https://github.com/caio-sts/general_assets/blob/main/gifs/codegreen.gif">
     <img align="center" alt="brain" height="300" width="300" src="https://github.com/caio-sts/general_assets/blob/main/gifs/brain.gif">
   </div>
   
