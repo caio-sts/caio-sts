@@ -8,7 +8,11 @@
   <a href="https://github.com/caio-sts/caio-sts">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=caio-sts&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-sts&layout=compact&langs_count=7&theme=dark"/>
-    </div>
+</div>
+  
+<div>
+  ![caio-sts's github stats](https://github-readme-stats.vercel.app/api?username=caio-sts)
+</div>
   
 - 📫 Fale comigo pelo:
   
