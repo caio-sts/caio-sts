@@ -11,8 +11,8 @@
 
   
 
-![caio-sts's github stats](https://github-readme-stats.vercel.app/api?username=caio-sts&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caio-sts&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![caio-sts's github stats](https://github-readme-stats.vercel.app/api?username=caio-sts&count_private=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caio-sts&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 - 📫 Fale comigo pelo:
   
 <div> 
