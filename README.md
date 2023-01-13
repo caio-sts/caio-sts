@@ -14,9 +14,7 @@
   <img  width="450" src="https://github-readme-stats.vercel.app/api?username=caio-sts&&show_icons=true&count_private=true&theme=radical"/>  <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-sts&layout=compact&theme=radical&show_icons=true&count_private=true"/>
       </div>
 
-- 📫 Fale comigo pelo:
-  
-<div>
+- 📫 Fale comigo pelo: <div>
   <a href="https://www.instagram.com/caio.santosn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:caio.santos@alu.ufc.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/caio-santos-nasc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
