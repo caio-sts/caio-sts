@@ -11,7 +11,7 @@
   
 <div align="center">
     <a href="https://github.com/caio-sts/caio-sts"> </a>
-  <img  width="450" src="https://github-readme-stats-three-delta-51.vercel.app/api?username=caio-sts&&show_icons=true&count_private=true&theme=radical"/>  <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-sts&layout=compact&theme=radical&show_icons=true&count_private=true"/>
+  <img  width="450" src="https://github-readme-stats.vercel.app/api?username=caio-sts&&show_icons=true&count_private=true&theme=radical"/>  <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-sts&layout=compact&theme=radical&show_icons=true&count_private=true"/>
       </div>
 
 - 📫 Fale comigo pelo:
