@@ -11,7 +11,7 @@
   
 <div align="center">
     <a href="https://github.com/caio-sts/caio-sts"> </a>
-  <img  width="450" src="https://github-readme-stats-caio-sts.vercel.app/api?username=caio-sts&&show_icons=true&count_private=true&theme=radical"/>  <img width="380" src="https://github-readme-stats-caio-sts.vercel.app/api/top-langs/?username=caio-sts&layout=compact&theme=radical&show_icons=true&count_private=true"/>
+  <img  width="350" src="https://github-readme-stats-caio-sts.vercel.app/api?username=caio-sts&&show_icons=true&count_private=true&theme=radical"/>  <img width="340" src="https://github-readme-stats-caio-sts.vercel.app/api/top-langs/?username=caio-sts&layout=compact&theme=radical&show_icons=true&count_private=true"/>
       </div>
 
 - 📫 Fale comigo pelo:
@@ -39,8 +39,8 @@
   ## Daily programmer's vibe
   
   <div align="center">
-    <img align="center" alt="coffee" height="300" width="300" src="https://github.com/caio-sts/general_assets/blob/main/gifs/coffee.gif">
-    <img align="center" alt="code" height="300" width="300" src="https://github.com/caio-sts/general_assets/blob/main/gifs/codegreen.gif">
-    <img align="center" alt="brain" height="300" width="300" src="https://github.com/caio-sts/general_assets/blob/main/gifs/brain.gif">
+    <img align="center" alt="coffee" height="250" width="250" src="https://github.com/caio-sts/general_assets/blob/main/gifs/coffee.gif">
+    <img align="center" alt="code" height="250" width="250" src="https://github.com/caio-sts/general_assets/blob/main/gifs/codegreen.gif">
+    <img align="center" alt="brain" height="250" width="250" src="https://github.com/caio-sts/general_assets/blob/main/gifs/brain.gif">
   </div>
   
