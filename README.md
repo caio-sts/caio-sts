@@ -10,7 +10,7 @@
 - 📈 Algumas estatísticas
   
 <div style="float: left">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=caio-sts&&show_icons=true&count_private=true&theme=radical"/>  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-sts&layout=compact&theme=radical&show_icons=true&count_private=true"/>
+  <img height="400em" width="450em" src="https://github-readme-stats.vercel.app/api?username=caio-sts&&show_icons=true&count_private=true&theme=radical"/>  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-sts&layout=compact&theme=radical&show_icons=true&count_private=true"/>
       </div>
 
 - 📫 Fale comigo pelo:
