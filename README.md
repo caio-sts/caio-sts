@@ -38,7 +38,10 @@
 
   ## Daily programmer's vibe
   
-  <img align="center" alt="eatsleepcode" width="350" src="https://github.com/caio-sts/general_assets/blob/main/code.gif">
+  <div align="center">
+    <img align="center" alt="eatsleepcode" width="350" src="https://github.com/caio-sts/general_assets/blob/main/code.gif">
+  </div>
+  
   
 
 
