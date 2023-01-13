@@ -44,6 +44,3 @@
     <img align="center" alt="brain" height="300" width="300" src="https://github.com/caio-sts/general_assets/blob/main/gifs/brain.gif">
   </div>
   
-  
-
-
