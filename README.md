@@ -9,7 +9,7 @@
   <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=caio-sts&&show_icons=true&count_private=true&theme=radical&layout=compact"/>
   <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-sts&layout=compact&theme=radical&show_icons=true&count_private=true"/>
 
-  ![caio-sts's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=caio-sts)](https://github.com/caio-sts/github-readme-stats)
+  [![caio-sts's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=caio-sts)](https://github.com/caio-sts/github-readme-stats)
 
 - 📫 Fale comigo pelo:
   
