@@ -1,4 +1,4 @@
-### Olá! Eu sou Caio dos Santos :wave:
+### Olá! Eu sou Caio dos Santos ![](https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif)
 
 - 🔭 Atualmente desenvolvo projetos relacionados às seguintes organizações da Universidade Federal do Ceará
     - PET Engenharia de Computação
