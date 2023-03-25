@@ -1,7 +1,6 @@
 ### Olá! Eu sou Caio dos Santos :wave:
 
 - 🔭 Atualmente desenvolvo projetos relacionados às seguintes organizações da Universidade Federal do Ceará
-    - PET Engenharia de Computação
     - Célula de Internet das Coisas
     - Grupo de pesquisa <a href="www.linkedin.com/company/biodata-research-group/about/">BioDatA</a>
 
