@@ -37,6 +37,14 @@ I am graduated in Computer Engineering by Federal University of Ceara in Brazil 
 
 ![snake gif](https://github.com/caio-sts/caio-sts/blob/output/github-contribution-grid-snake.svg)
 
+<picture>
+  <source media="prefers-color-scheme: dark" srcset="https://wraw.githubusercontent.com/caio-sts/output/github-contribution-grid-snake-dark.svg">
+  <source media="prefers-color-scheme: light" srcset="https://wraw.githubusercontent.com/caio-sts/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://githubusercontent.com/caio-sts/caio-sts/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
+
+
 <a href="https://github.com/caio-sts" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-sts&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
