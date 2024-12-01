@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Caio Santos
 ===================================================================================================================================
 
-Software Engineer
+Computer Engineer
 -----------------
 
 I am graduated in Computer Engineering by Federal University of Ceara in Brazil and in that time I participated in projects involving IoT, Artificial Intelligence / Machine Learning, Biomedical Engineering, Web Development and DevOps.
