@@ -38,8 +38,8 @@ I am graduated in Computer Engineering by Federal University of Ceara in Brazil 
 ![snake gif](https://github.com/caio-sts/caio-sts/blob/output/github-contribution-grid-snake.svg)
 
 <picture>
-  <source media="prefers-color-scheme: dark" srcset="https://wraw.githubusercontent.com/caio-sts/output/github-contribution-grid-snake-dark.svg">
-  <source media="prefers-color-scheme: light" srcset="https://wraw.githubusercontent.com/caio-sts/output/github-contribution-grid-snake.svg">
+  <source media="prefers-color-scheme: dark" srcset="https://wraw.githubusercontent.com/caio-sts/caio-sts/output/github-contribution-grid-snake-dark.svg">
+  <source media="prefers-color-scheme: light" srcset="https://wraw.githubusercontent.com/caio-sts/caio-sts/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://githubusercontent.com/caio-sts/caio-sts/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
