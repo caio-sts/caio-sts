@@ -6,10 +6,9 @@ Computer Engineer
 
 I am graduated in Computer Engineering by Federal University of Ceara in Brazil and in that time I participated in projects involving IoT, Artificial Intelligence / Machine Learning, Biomedical Engineering, Web Development and DevOps.
 
-* 🌍  I'm based in Ceará
+* 🌍  I'm living in Ceará
 * ✉️  You can contact me at [caiosantosnsc@gmail.com](mailto:caiosantosnsc@gmail.com)
-* 💻  I do voluntary research on <a href="www.linkedin.com/company/biodata-research-group/about/">BioDatA Research Group</a>
-* 🧠  I'm learning React
+<!-- * 💻  I do voluntary research on <a href="www.linkedin.com/company/biodata-research-group/about/">BioDatA Research Group</a> -->
 * ⚡  I love math and hard problems
 
 ### Skills
