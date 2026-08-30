@@ -20,7 +20,7 @@
 
 <br clear="both" />
 
-**[codes4enhance](https://github.com/caio-sts/codes4enhance)** — implements and compares nine enhancement methods for medical images (histogram equalization, dynamic HE, exposure fusion, LIME, wavelet/TV/bilateral denoising, adaptive gamma correction, RGHS), each traced back to its source paper. Ships a CLI for batch processing, geometric data augmentation and quality metrics. **[See the comparison gallery](https://caio-sts.github.io/)** — four methods applied to benign, malignant and normal breast ultrasound scans.
+**[codes4enhance](https://github.com/caio-sts/codes4enhance)** — implements and compares nine enhancement methods for medical images (histogram equalization, dynamic HE, exposure fusion, LIME, wavelet/TV/bilateral denoising, adaptive gamma correction, RGHS), each traced back to its source paper. Ships a CLI for batch processing, geometric data augmentation and quality metrics. **[Compare the methods side by side](https://caio-sts.github.io/)** — click through four methods on benign, malignant and normal breast ultrasound scans.
 
 **[base_api_ddd_fastapi](https://github.com/caio-sts/base_api_ddd_fastapi)** — FastAPI service template with explicit domain/application/infra layering, dependency injection and SQLAlchemy repositories over PostgreSQL. The starting point for my Python APIs.
 
