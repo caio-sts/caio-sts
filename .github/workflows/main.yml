@@ -1,4 +1,4 @@
-name: generate animation
+name: generate readme assets
 
 on:
   # run automatically every 24 hours
@@ -20,7 +20,7 @@ jobs:
     permissions: 
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
@@ -32,10 +32,51 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
-          
+      # the stats cards are rendered here, not at page load, so the profile never
+      # depends on a live service being up.
+      # CARDS_PAT needs the `repo` scope: without it private repositories are
+      # silently dropped from the language breakdown.
+      # fail_on_error keeps a rate-limited run from committing a "Something went
+      # wrong" card over a good one — the job fails and the previous svg stays.
+      - name: generate stats.svg
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          path: dist/stats.svg
+          token: ${{ secrets.CARDS_PAT }}
+          fail_on_error: true
+          options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true
+
+      - name: generate top-langs.svg
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          path: dist/top-langs.svg
+          token: ${{ secrets.CARDS_PAT }}
+          fail_on_error: true
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true
+
+      - name: generate pin-codes4enhance.svg
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          path: dist/pin-codes4enhance.svg
+          token: ${{ secrets.CARDS_PAT }}
+          fail_on_error: true
+          options: username=${{ github.repository_owner }}&repo=codes4enhance&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en
+
+      - name: generate pin-base_api_ddd_fastapi.svg
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          path: dist/pin-base_api_ddd_fastapi.svg
+          token: ${{ secrets.CARDS_PAT }}
+          fail_on_error: true
+          options: username=${{ github.repository_owner }}&repo=base_api_ddd_fastapi&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en
+
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: push generated svgs to the output branch
         uses: crazy-max/ghaction-github-pages@v5.0.0
         with:
           target_branch: output
