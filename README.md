@@ -15,8 +15,8 @@
 
 ### Selected work
 
-<a href="https://github.com/caio-sts/codes4enhance"><img align="left" width="45%" src="https://github-readme-stats-caio-sts.vercel.app/api/pin/?username=caio-sts&repo=codes4enhance&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="codes4enhance repository" /></a>
-<a href="https://github.com/caio-sts/base_api_ddd_fastapi"><img align="right" width="45%" src="https://github-readme-stats-caio-sts.vercel.app/api/pin/?username=caio-sts&repo=base_api_ddd_fastapi&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="base_api_ddd_fastapi repository" /></a>
+<a href="https://github.com/caio-sts/codes4enhance"><img align="left" width="45%" src="https://raw.githubusercontent.com/caio-sts/caio-sts/output/pin-codes4enhance.svg" alt="codes4enhance repository" /></a>
+<a href="https://github.com/caio-sts/base_api_ddd_fastapi"><img align="right" width="45%" src="https://raw.githubusercontent.com/caio-sts/caio-sts/output/pin-base_api_ddd_fastapi.svg" alt="base_api_ddd_fastapi repository" /></a>
 
 <br clear="both" />
 
@@ -28,8 +28,8 @@ I've also built a WhatsApp chatbot MVP (Flask + Twilio) that reminds physiothera
 
 ### Stats
 
-<img width="405" alt="Caio's GitHub Stats" src="https://github-readme-stats-caio-sts.vercel.app/api?username=caio-sts&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-<img width="340" alt="Most Used Languages" src="https://github-readme-stats-caio-sts.vercel.app/api/top-langs/?username=caio-sts&layout=compact&langs_count=8&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+<img width="405" alt="Caio's GitHub Stats" src="https://raw.githubusercontent.com/caio-sts/caio-sts/output/stats.svg" />
+<img width="340" alt="Most Used Languages" src="https://raw.githubusercontent.com/caio-sts/caio-sts/output/top-langs.svg" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caio-sts/caio-sts/output/github-contribution-grid-snake-dark.svg">
